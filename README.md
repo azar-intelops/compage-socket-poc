@@ -35,4 +35,4 @@ This is a simple chat application built with Go, Gorilla WebSockets, and Gorilla
    go run client.go
    ```
 
-### This repo also consists of gitsign
+### This repo also consists of gitsign 
